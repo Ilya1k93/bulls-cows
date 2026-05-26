@@ -1,0 +1,9 @@
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+**/build/
+
+# keep wrapper JAR out of VCS for this environment
+gradle/wrapper/gradle-wrapper.jar
